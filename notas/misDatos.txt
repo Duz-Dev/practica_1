@@ -3,3 +3,7 @@ Nombre = Rubén
 Apellido = Chávez
 Dirección = México, NL
 Teléfono = 0180012120
+
+#Datos Familiares
+Madre = Cecilia
+Padre = Rubén
