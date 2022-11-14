@@ -22,3 +22,8 @@ Lenguajes dominados:
 3.JS
 4.SQL
 5.PHP
+
+#Datos de Hobbits
+1.Correr
+2.Programar
+3.Ver anime
