@@ -7,3 +7,5 @@ Teléfono = 0180012120
 #Datos Familiares
 Madre = Cecilia
 Padre = Rubén
+Hermano = Sebastián
+Hermano = Omar
