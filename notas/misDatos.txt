@@ -3,3 +3,22 @@ Nombre = Rubén
 Apellido = Chávez
 Dirección = México, NL
 Teléfono = 0180012120
+
+#Datos Familiares
+Madre = Cecilia
+Padre = Rubén
+Hermano = Sebastián
+Hermano = Omar
+
+#Datos de trabajo
+Correo = juan@gmail.com
+telefono = 91288123923
+direccion = fulano 123
+
+#Datos de Experiencia
+Lenguajes dominados:
+1.HTML
+2.CSS
+3.JS
+4.SQL
+5.PHP
