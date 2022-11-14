@@ -1,0 +1,5 @@
+#Datos personales
+Nombre = Rubén
+Apellido = Chávez
+Dirección = México, NL
+Teléfono = 0180012120
