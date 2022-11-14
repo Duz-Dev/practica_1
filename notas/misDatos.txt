@@ -14,3 +14,11 @@ Hermano = Omar
 Correo = juan@gmail.com
 telefono = 91288123923
 direccion = fulano 123
+
+#Datos de Experiencia
+Lenguajes dominados:
+1.HTML
+2.CSS
+3.JS
+4.SQL
+5.PHP
